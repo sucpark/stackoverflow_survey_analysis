@@ -18,6 +18,9 @@ The data consists of 2 files
 ## File Description
 The project is conducted on Jupyter Notebook files.
 
+## Result
+The results can be found at [my medium post](#https://sucpark.medium.com/answers-to-be-a-developer-from-stackoverflow-survey-2017-d87b0003eb3e)
+
 ## Requirements
 * Python
 
@@ -26,6 +29,11 @@ The project is conducted on Jupyter Notebook files.
 * matplotlib
 
 * scikit-learn
+
+## Acknowledements
+* https://www.kaggle.com/stackoverflow/so-survey-2017
+
+* https://machinelearningmastery.com/feature-selection-for-regression-data/
   
 ## License
 Under MIT license which means it's an open/public project, please feel free to download, make changes and give me feedback
