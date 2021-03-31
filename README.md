@@ -1,5 +1,5 @@
 # stackoverflow_survey_analysis
-![stackoverflow_developer_survey 2017](https://stackoverflow.blog/2017/03/22/now-live-stack-overflow-developer-survey-2017-results/)
+![stackoverflow_developer_survey 2017](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/03/2017-survey-featured.png)
 
 ## Project Overview
 The project is done on Stackoverflow developer survey 2017. The project is based on CRISP-DM (Cross Industry Standard Process for Data Mining) process. 
